@@ -1,5 +1,5 @@
 # Learn-Git
 Il earn from Elzero
 
-Dad code invest
+Bad code invest
 #Hi Boi
